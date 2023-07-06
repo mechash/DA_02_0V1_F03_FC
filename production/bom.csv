@@ -1,5 +1,4 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
-AE1,ANT_Texas_SWRA117D_2.4GHz_Left,1,Antenna_Shield_2.4GHz_R,
 "C1, C18, C2, C8",C_0603,4,1uF,C113807
 "C10, C5",C_0603,2,27pF,C107045
 "C11, C12, C15, C16, C17, C21, C23, C24, C25, C26, C27, C28",C_0603,12,0.1uF,C519438
